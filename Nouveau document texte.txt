@@ -1,3 +1,7 @@
 je taime
+<<<<<<< HEAD
 toi ausjesuispasdaccord
+=======
+toi atamerelaplume
+>>>>>>> 060a6d65d255cd51e292a20456decf9425a50e43
 tageuel
